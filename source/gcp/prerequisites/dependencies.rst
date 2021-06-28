@@ -58,4 +58,4 @@ To install this package along with its dependencies, execute the following comma
 
 .. code-block:: console
 
-  # pip3 install google-cloud-pubsub==1.4.3 google-api-core==1.16.0 google-auth==1.30.1 grpc-google-iam-v1==0.12.3 grpcio==1.38.0
+  # pip3 install google-cloud-pubsub==1.4.3 google-cloud-storage==1.39.0 google-api-core==1.16.0 google-auth==1.30.1 grpc-google-iam-v1==0.12.3 grpcio==1.38.0
